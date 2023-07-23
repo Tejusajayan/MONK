@@ -160,7 +160,7 @@ button.white
 }
 #hero
 {
-    background-image: url("https://github.com/Tejusajayan/MONK/blob/main/IMG/hero4.png");
+    background-image: url('https://github.com/Tejusajayan/MONK/blob/main/IMG/hero4.png');
     height: 90vh;
     width: 100%;
     background-position: top 25% right 25%;
